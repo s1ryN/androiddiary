@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Denik" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Night variant -->
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
